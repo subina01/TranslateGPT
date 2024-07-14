@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wF91e+K77CVX01MCfjh0Hzrp/P3bzd4/s/FkuUT8Bi+tZKUmIyeHpGh3YSXbY2ZlN9MC3foUuHa0Sj9WacxlFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\subia\\OneDrive\\Desktop\\New folder\\TranslateGpt\\TranslateGpt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
